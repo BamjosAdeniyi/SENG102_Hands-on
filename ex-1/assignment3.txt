@@ -1,0 +1,9 @@
+Do a little research on Semantic HTML structure. 
+Study an article and provide the list below using your own words.
+
+1. Explain the concept.
+2. Explain the importance.
+3. Explain what each element in the semantic structure represents. (Can be done with a picture).
+
+Add the link to your GeekforGeeks article to your .md file and word document.
+Due Sunday, March 1st.
