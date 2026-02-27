@@ -1,0 +1,23 @@
+Explain the difference between: <strong>tag and <b>tag, <em>tag and <i>tag
+what is semantic HTML, and list the importance
+
+1a .<strong/> vs <b/> tag
+is a sementectag is applied to the text that is expected to be given importance or emphasis. In web development, a section of text that is given the strong tag will be rendered in bold by the browsers making this text visually different to the rest of the regular text on a webpage.
+b is not a semantic tag is a visual only tag, makes text bold, but has no meaning, this is treated as normal by screen readers.
+b.<em/> vs <i/>
+is semantic tag, it means emphasis, screen readers accentuate the word.
+i is not semantic text, stylistic text.
+
+2.The use of properly tagged content, which will provide meaning and context to the content being used, as opposed to how the content is to be represented in a visual way. Semantic tags allow the browsers, developers and assistive technologies like the screen readers to have some context of the content that is available on the web. The semantic tags include examples such as;  <header/> and <footer/>.
+
+Significance Of Semantics Of HTML.
+
+1) Improved accessibility: The visual impaired people will enjoy the option of using screen readers and other such assistive technologies that use semantics to navigate the webpages.
+
+2) Better Search Engine Optimization (SEO): Semantics enable search engines like Google to learn how the material is organized and arranged in the websites and will offer the website a better ranking in the search engines.
+
+3) Higher Code Readability & Maintenance: This will allow developers to read and comprehend other developers code with relative ease as compared to when the code was not semantically tagged, thereby making team work between developers easier.
+
+4) Improved Consistency and Future Proofing: With the internet being ever-evolving and new devices and browsers coming into the market, semantically tagged websites will remain consistent on all the devices without the courageous code refactoring or rewriting.
+
+5) Better Mobile Compatibility: Mobile devices will be capable of handling semantically tagged content far more effectively and efficiently than any other content.
