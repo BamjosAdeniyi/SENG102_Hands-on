@@ -1,16 +1,10 @@
-Do a little resaerch on semantic HTML structure 
-1. EXPLAIN  THE CONCEPT 
-2. EXPLAIN THE IMPORTANCE
-3. EXPLAIN WHAT EACH ELEMENT IN THE SEMANTIC STRUCTURE MEANS 
+Assignment 2
 
-ADD THE LINK TO THE GEEKS FOR GEEKS ARTICLE TO YOUR .MD FILE AND YOUR WORD DOCUMENT 
+Geek for Geeks article : https://www.geeksforgeeks.org/html/html5-semantics/
 
+Semantic HTML is the use of appropriately tagged content that will give meaning or context to the content itself, as opposed to simply determining how the content will be displayed visually. The use of semantic tags provide browsers, developers, and assistive technologies such as screen readers with context for the content that can be accessed on the web. Examples of semantic tags are  <header/> and <footer/>
 
-REPO AND GOOGLE CLASSROOM 
-
-2.Semantic HTML is the use of appropriately tagged content that will give meaning or context to the content itself, as opposed to simply determining how the content will be displayed visually. The use of semantic tags provide browsers, developers, and assistive technologies such as screen readers with context for the content that can be accessed on the web. Examples of semantic tags are  <header/> and <footer/>
-
-Importance Of Semantics In HTML
+ Importance Of Semantics In HTML
 
 1) Increased accessibility: Individuals with visual impairments will benefit from being able to utilize screen readers and other assistive technologies that rely on semantics to navigate webpages.
 
@@ -21,3 +15,22 @@ Importance Of Semantics In HTML
 4) Enhanced Consistency and Future Proofing : When the internet continues to evolve and new devices and browsers become available, semantically tagged websites will continue to function uniformly across all devices without the need for extensive code refactoring or rewriting.
 
 5) Improved Mobile Compatibility : Mobile devices will be able to process semantically tagged content much better and more efficiently than other types of content.
+
+Semantic Structure Breakdown
+
+ <head>: This is the section of your website that displays your branding, logo and may include the primary search bar.
+
+<nav> The "GPS" or main Menu is used to navigate your website (Home, About, Contact).
+
+<main> This is the main page content that you came to find. (Note: You can only have one  tag per page).
+
+<section> These are “chapters” of your content that group related content together.
+
+<article> This is a “standalone” piece of content that could be considered like blog posts or news cards you could share elsewhere as standalone content.
+
+<aside> A “sidebar” of content that are not specific to the primary content, yet help to provide some additional context (i.e., Related Posts, advertisements).
+
+<footer> The “footer” of the page. Contains information such as Copyright, legal links and secondary contact information.
+
+<figure> & <figcaption> This area represents the "captioned media". It consists of images and/or charts with the accompanying descriptive text.
+
