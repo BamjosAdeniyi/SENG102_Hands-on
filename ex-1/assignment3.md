@@ -23,23 +23,23 @@ Maintainability: It is easier to update clean logical sections.
 
 Semantic HTML5 Elements Explained
 
-The <article> element specifies independent, self-contained content.
+The article element specifies independent, self-contained content.
 
 An article should make sense on its own, and it should be possible to distribute it independently from the rest of the web site.
 
-The <section> element defines a section in a document.
+The section element defines a section in a document.
 
-The <header> element represents a container for introductory content or a set of navigational links.
+The header element represents a container for introductory content or a set of navigational links.
 
-A <header> element typically contains:
+A header element typically contains:
 
-one or more heading elements (<h1> - <h6>)
+one or more heading elements (h1 - h6)
 logo or icon
 authorship information
 
-The <footer> element defines a footer for a document or section.
+The footer element defines a footer for a document or section.
 
-A <footer> element typically contains:
+A footer element typically contains:
 
 authorship information
 copyright information
@@ -48,17 +48,17 @@ sitemap
 back to top links
 related documents
 
-The <nav> element defines a set of navigation links.
+The nav element defines a set of navigation links.
 
-The <aside> element defines some content aside from the content it is placed in (like a sidebar).
+The aside element defines some content aside from the content it is placed in (like a sidebar).
 
-The <aside> content should be indirectly related to the surrounding content.
+The aside content should be indirectly related to the surrounding content.
 
-The <figure> tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
+The figure tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
 
-The <figcaption> tag defines a caption for a <figure> element. The <figcaption> element can be placed as the first or as the last child of a <figure> element.
+The figcaption tag defines a caption for a figure element. The figcaption element can be placed as the first or as the last child of a figure element.
 
-The <img> element defines the actual image/illustration. 
+The img element defines the actual image/illustration. 
 
 
 

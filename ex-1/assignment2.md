@@ -1,12 +1,12 @@
-Explain the difference between: <strong>tag and <b>tag, <em>tag and <i>tag
+Explain the difference between: strong tag and b tag, em tag and i tag
 
-<strong> vs <b>
+strong tag vs b tag
 
-<strong>-it means that the text is significant. It puts in semantic meaning (it is emphasized by screen readers).
+strong tag-it means that the text is significant. It puts in semantic meaning (it is emphasized by screen readers).
 
- <b>- Boldens text visually. No extra significance, pure style.
+ b tag- Boldens text visually. No extra significance, pure style.
 
-<em> vs <i>
+em tag vs i tag
 
 - it stresses (alters meaning of a sentence). Semantic.
 
