@@ -9,38 +9,43 @@ Add the link to your GeekforGeeks article to your .md file and word document.
 Due Sunday, March 1st.
 
 
-Gemini said
-Here is a paraphrased version of your notes, refined for better flow and clarity while maintaining the technical accuracy of each element.
 
-Understanding Semantic HTML
-Semantic HTML refers to markup that conveys the structural meaning of web content rather than just its visual appearance. By using these specific tags, you provide a clear roadmap for both the browser and the developer, explicitly defining what kind of information each section contains. Essentially, the code speaks for itself.
+# Understanding Semantic HTML
 
-Why Semantics Matter
-Switching from generic containers (like <div>) to semantic elements offers several key advantages:
+Semantic HTML refers to markup that conveys the structural meaning of web content rather than just its visual appearance. By using specific tags, you provide a clear roadmap for both the browser and the developer, explicitly defining what kind of information each section contains. Essentially, the code speaks for itself.
 
-Enhanced Accessibility: Screen readers use these tags to help visually impaired users navigate a page more intuitively.
+---
 
-SEO Optimization: Search engines can better index your site when they understand which parts are headers, articles, or navigation menus.
+## Why Semantics Matter
+Switching from generic containers (like `<div>`) to semantic elements offers several key advantages:
 
-Code Longevity: Meaningful tags make the codebase cleaner and easier for teams to maintain or update.
+* **Enhanced Accessibility:** Screen readers use these tags to help visually impaired users navigate a page more intuitively.
+* **SEO Optimization:** Search engines can better index your site when they understand which parts are headers, articles, or navigation menus.
+* **Code Longevity:** Meaningful tags make the codebase cleaner and easier for teams to maintain or update.
+* **Structural Clarity:** It creates a consistent hierarchy that makes the document's logic obvious at a glance.
 
-Structural Clarity: It creates a consistent hierarchy that makes the document's logic obvious at a glance.
 
-Core Semantic Elements and Their Roles
-Element	Purpose & Description
-<header>	Acts as the introductory container for a page or section, typically holding logos or headings.
-<nav>	Reserved for major blocks of navigation links, such as menus or tables of contents.
-<main>	Identifies the primary, unique content of the document. There should only be one per page.
-<section>	Groups related content together into distinct thematic chapters or areas.
-<article>	Wraps self-contained content that could make sense on its own (e.g., a blog post, a tweet, or a forum entry).
-<aside>	Used for content indirectly related to the main text, often displayed as sidebars or call-out boxes.
-<footer>	Found at the base of a page or section; usually contains copyright info, sitemaps, or contact details.
-<figure> / <figcaption>	Encapsulates media (like images or charts) and provides a specific caption for that media.
-<details> / <summary>	Creates an interactive widget that the user can expand to see more info. <summary> acts as the visible label.
-<form>	Defines a section containing interactive controls for submitting user data.
-<table>	Specifically used for rendering data in a structured grid of rows and columns.
-<mark>	Programmatically highlights a portion of text
 
- https://www.geeksforgeeks.org/html/difference-between-semantic-and-non-semantic-elements/
+---
 
- https://www.geeksforgeeks.org/html/html5-semantics/
+## Core Semantic Elements
+
+Below is a breakdown of commonly used semantic elements:
+
+| Element | Purpose & Description |
+| :--- | :--- |
+| `<header>` | The introductory container for a page or section, typically holding logos or headings. |
+| `<nav>` | Reserved for major blocks of navigation links, such as menus or tables of contents. |
+| `<main>` | Identifies the primary, unique content of the document. (Use only once per page). |
+| `<section>` | Groups related content together into distinct thematic chapters or areas. |
+| `<article>` | Wraps self-contained content that could make sense on its own (e.g., a blog post). |
+| `<aside>` | Used for content indirectly related to the main text, often displayed as sidebars. |
+| `<footer>` | Found at the base of a page; usually contains copyright info, sitemaps, or contact details. |
+| `<figure> / <figcaption>` | Encapsulates media (like images) and provides a specific caption. |
+| `<details> / <summary>` | Creates an interactive widget that users can expand. `<summary>` is the label. |
+| `<form>` | Defines a section containing interactive controls for submitting user data. |
+| `<table>` | Used for rendering data in a structured grid of rows and columns. |
+| `<mark>` | Programmatically highlights a portion of text for reference. |
+
+---
+*Reference: [GeeksforGeeks - HTML5 Semantics](https://www.geeksforgeeks.org/html/html5-semantics/)*
