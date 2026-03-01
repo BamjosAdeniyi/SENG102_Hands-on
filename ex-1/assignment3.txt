@@ -7,3 +7,41 @@ Study an article and provide the list below using your own words.
 
 Add the link to your GeekforGeeks article to your .md file and word document.
 Due Sunday, March 1st.
+
+
+ANSWER
+1. Semantic HTML elements are simply elements with meaning.
+ Use and definition of semantic HTML elements in the code tells the browser and the developer what they are supposed to do. 
+ In simpler words, these elements describe the type of content they are supposed to contain.
+ Semantic elements provide meaningful tags that clearly describe their purpose, thereby improving readability, and accessibility.
+
+2. Importance of Semantic HTML.
+
+ It clearly defines the role and content of elements.
+ It improves code readability and structure.
+ It enhances accessibility for screen readers.
+ It helps browsers and search engines understand page content.
+ Easier maintenace
+ Improves accessibility.
+ Cleaner and more readable code
+ Easier maintenace.
+
+
+3. Elements in the semantic structure:
+
+ article: The <article> tag is used for content that stands alone and can be independently distributed or reused, such as a blog post or news article.
+ aside: The <aside> is used to place content in a sidebar i.e. aside from the existing content.
+ details: This defines additional details that the user can hide or view. "summary" defines a visible heading for a "details" element.
+ figcaption/figure: The <figure> and <figcaption> tags are used together in HTML to display an image (or illustration) with a descriptive caption
+ footer: This is for the footer located at the bottom of any article or document, they can contain contact details, copyright information etc.
+ form: 
+ header: This is used for the header of a section introductory of a page.
+ main: It defines the main content of the document. The content inside the main tag should be unique. 
+ mark: Mark tag is used to highlight the text.
+ nav: The nav tag is used to define a set of navigation links in the form of a navigation bar or nav menu.
+ table: This is used to create a table.
+ section: This is used to split a page into different sections.
+
+ https://www.geeksforgeeks.org/html/difference-between-semantic-and-non-semantic-elements/
+
+ https://www.geeksforgeeks.org/html/html5-semantics/
