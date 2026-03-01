@@ -1,0 +1,39 @@
+# Understanding Semantic HTML
+
+Semantic HTML refers to markup that conveys the structural meaning of web content rather than just its visual appearance. By using specific tags, you provide a clear roadmap for both the browser and the developer, explicitly defining what kind of information each section contains. Essentially, the code speaks for itself.
+
+---
+
+## Why Semantics Matter
+Switching from generic containers (like `<div>`) to semantic elements offers several key advantages:
+
+* **Enhanced Accessibility:** Screen readers use these tags to help visually impaired users navigate a page more intuitively.
+* **SEO Optimization:** Search engines can better index your site when they understand which parts are headers, articles, or navigation menus.
+* **Code Longevity:** Meaningful tags make the codebase cleaner and easier for teams to maintain or update.
+* **Structural Clarity:** It creates a consistent hierarchy that makes the document's logic obvious at a glance.
+
+
+
+---
+
+## Core Semantic Elements
+
+Below is a breakdown of commonly used semantic elements:
+
+| Element | Purpose & Description |
+| :--- | :--- |
+| `<header>` | The introductory container for a page or section, typically holding logos or headings. |
+| `<nav>` | Reserved for major blocks of navigation links, such as menus or tables of contents. |
+| `<main>` | Identifies the primary, unique content of the document. (Use only once per page). |
+| `<section>` | Groups related content together into distinct thematic chapters or areas. |
+| `<article>` | Wraps self-contained content that could make sense on its own (e.g., a blog post). |
+| `<aside>` | Used for content indirectly related to the main text, often displayed as sidebars. |
+| `<footer>` | Found at the base of a page; usually contains copyright info, sitemaps, or contact details. |
+| `<figure> / <figcaption>` | Encapsulates media (like images) and provides a specific caption. |
+| `<details> / <summary>` | Creates an interactive widget that users can expand. `<summary>` is the label. |
+| `<form>` | Defines a section containing interactive controls for submitting user data. |
+| `<table>` | Used for rendering data in a structured grid of rows and columns. |
+| `<mark>` | Programmatically highlights a portion of text for reference. |
+
+---
+*Reference: [GeeksforGeeks - HTML5 Semantics](https://www.geeksforgeeks.org/html/html5-semantics/)*
