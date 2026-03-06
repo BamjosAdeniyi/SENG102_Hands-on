@@ -16,3 +16,46 @@
 
 
 // using <em>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Use of <em> Tag</title>
+</head>
+<body>
+    <p>This is an
+        <em>important</em>
+        word using the
+        <em>&lt;em&gt;</em>
+        tag in HTML.
+    </p>
+</body>
+
+//using bold
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bold Tag Example</title>
+</head>
+<body>
+    <h2>Using Bold Tag</h2>
+    <p>This is
+        <b>bold text</b>
+        within a paragraph.
+    </p>
+</body>
+</html>
+
+// using strong tag
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Strong Tag Example</title>
+</head>
+<body>
+    <h2>Using Strong Tag</h2>
+    <p>GeeksforGeeks a 
+        <strong>Computer science </strong> 
+        Portal.
+    </p>
+</body>
+</html>
