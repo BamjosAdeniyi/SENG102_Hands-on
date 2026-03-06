@@ -5,6 +5,7 @@ https://www.geeksforgeeks.org/html/html5-semantics/
 Clearly define the role and content of elements: Semantic tags describe themselves. Each tag carries a unique definition regarding its function, creating a logical structure where the purpose of the code matches the page  
 
 Improve code readability and structure: It serves as a form of documentation the organization of the document becomes simple and easy to understand since it describes itself
+
 Enhance accessibility for screen readers: The tags are used as the vital landmarks in the content. Without the tags the content would not be understood in a logical manner by the assistive devices, making the content as a plain stream of information without structure. The content would not be properly understood and would not follow the logical flow of the content.
 Help browsers and search engines understand page content: Contextualized information is required to accurately index and rank web pages. Semantic tags gives the necessary data by clarifying the significance of each section helping automated systems determine the relevance and hierarchy of the data.
  
