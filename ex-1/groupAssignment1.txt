@@ -1,0 +1,5 @@
+I am in group B.
+
+We are to do Layout in CSS (MediaQuery)
+It is a presentation and teaching.
+Practical examples are included.
