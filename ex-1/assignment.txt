@@ -1,0 +1,6 @@
+1. Explain the difference between:
+i. <strong> tag and <b> tag
+ii. <em> tag and <i> tag
+2. What is Semantic HTML, and List the importance.
+
+Note: Resist the urge to use Generative AI
