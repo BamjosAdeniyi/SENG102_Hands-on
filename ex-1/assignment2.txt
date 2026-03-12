@@ -1,0 +1,5 @@
+1. Explain the difference between:
+i. <strong> tag and <b> tag
+ii. <em> tag and <i> tag
+
+Note: Resist the urge to use Generative AI
