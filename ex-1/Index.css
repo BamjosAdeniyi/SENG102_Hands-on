@@ -1,0 +1,15 @@
+body {
+    font-family: poppins, sans-serif;
+}
+
+fieldset{
+    background-color: aqua;
+}
+
+legend {
+    color: rgb(4,4,114);
+}
+
+label {
+    color: rgb(20,50,150);
+}
