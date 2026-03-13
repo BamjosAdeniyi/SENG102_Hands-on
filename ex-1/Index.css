@@ -1,15 +1,79 @@
-body {
-    font-family: poppins, sans-serif;
+body{
+    font-family: Poppins, sans-serif;
+    background-color: #f4f6fb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
+/* Form container */
+form{
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgba(0,0,0,0.1);
+    width: 350px;
+}
+
+/* Fieldset styling */
 fieldset{
-    background-color: aqua;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    padding: 15px;
+    background-color: #f9fbff;
 }
 
-legend {
+/* Legend title */
+legend{
     color: rgb(4,4,114);
+    font-weight: bold;
+    padding: 0 5px;
 }
 
-label {
+/* Labels */
+label{
     color: rgb(20,50,150);
+    font-weight: 500;
+}
+
+/* Inputs */
+input, select{
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+/* Input focus effect */
+input:focus, select:focus{
+    outline: none;
+    border-color: rgb(4,4,114);
+    box-shadow: 0 0 5px rgba(4,4,114,0.3);
+}
+
+/* Radio buttons spacing */
+input[type="radio"]{
+    width: auto;
+    margin-right: 5px;
+}
+
+/* Submit button */
+input[type="submit"]{
+    background-color: rgb(4,4,114);
+    color: white;
+    border: none;
+    padding: 10px;
+    width: 100%;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Hover effect */
+input[type="submit"]:hover{
+    background-color: rgb(2,2,80);
+}
 }
