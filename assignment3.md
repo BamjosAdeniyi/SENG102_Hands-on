@@ -2,7 +2,7 @@ Assignment 2
 
 Geek for Geeks article : https://www.geeksforgeeks.org/html/html5-semantics/
 
-Semantic HTML is the use of appropriately tagged content that will give meaning or context to the content itself, as opposed to simply determining how the content will be displayed visually. The use of semantic tags provide browsers, developers, and assistive technologies such as screen readers with context for the content that can be accessed on the web. Examples of semantic tags are  <header/> and <footer/>
+Semantic HTML is the use of appropriately tagged content that will give meaning or context to the content itself, as opposed to simply determining how the content will be displayed visually. The use of semantic tags provide browsers, developers, and assistive technologies such as screen readers with context for the content that can be accessed on the web. Examples of semantic tags are  `<header/>` and `<footer/>`
 
  Importance Of Semantics In HTML
 
