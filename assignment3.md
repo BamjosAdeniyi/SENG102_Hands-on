@@ -18,19 +18,19 @@ Semantic HTML is the use of appropriately tagged content that will give meaning 
 
 Semantic Structure Breakdown
 
- <head>: This is the section of your website that displays your branding, logo and may include the primary search bar.
+ `<head>`: This is the section of your website that displays your branding, logo and may include the primary search bar.
 
-<nav> The "GPS" or main Menu is used to navigate your website (Home, About, Contact).
+`<nav>` The "GPS" or main Menu is used to navigate your website (Home, About, Contact).
 
-<main> This is the main page content that you came to find. (Note: You can only have one  tag per page).
+`<main>` This is the main page content that you came to find. (Note: You can only have one  tag per page).
 
-<section> These are “chapters” of your content that group related content together.
+`<section>` These are “chapters” of your content that group related content together.
 
-<article> This is a “standalone” piece of content that could be considered like blog posts or news cards you could share elsewhere as standalone content.
+`<article>` This is a “standalone” piece of content that could be considered like blog posts or news cards you could share elsewhere as standalone content.
 
-<aside> A “sidebar” of content that are not specific to the primary content, yet help to provide some additional context (i.e., Related Posts, advertisements).
+`<aside>` A “sidebar” of content that are not specific to the primary content, yet help to provide some additional context (i.e., Related Posts, advertisements).
 
-<footer> The “footer” of the page. Contains information such as Copyright, legal links and secondary contact information.
+`<footer>` The “footer” of the page. Contains information such as Copyright, legal links and secondary contact information.
 
-<figure> & <figcaption> This area represents the "captioned media". It consists of images and/or charts with the accompanying descriptive text.
+`<figure>` & `<figcaption>` This area represents the "captioned media". It consists of images and/or charts with the accompanying descriptive text.
 
