@@ -1,0 +1,14 @@
+.body {
+font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.field {
+    background-color: rgb(0, 187, blue);
+}
+
+.legend {
+    color: rgb(4, 4, 114);
+}
+
+.label {
+    color: rgb(4, 4, 114);
+}

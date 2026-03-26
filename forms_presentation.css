@@ -1,0 +1,57 @@
+/* Style the form */
+form {
+    max-width: 500px;
+    margin: auto;
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Fieldset */
+fieldset {
+    margin-bottom: 15px;
+    padding: 15px;
+}
+
+/* Labels */
+label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+/* Inputs */
+input, select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+}
+
+/* Submit button */
+input[type="submit"] {
+    background: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+input[type="submit"]:hover {
+    background: #00bcd4;
+}
+
+@media (min-width: 700px) {
+    form {
+        max-width: 700px;
+    }
+
+    fieldset {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+    }
+
+    label, input, select {
+        width: 48%;
+    }
+}
