@@ -40,9 +40,9 @@ input[type="submit"]:hover {
     background: #00bcd4;
 }
 
-@media (min-width: 700px) {
+@media (min-width: 600px) {
     form {
-        max-width: 700px;
+        max-width: 600px;
     }
 
     fieldset {
